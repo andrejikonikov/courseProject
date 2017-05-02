@@ -1,0 +1,1 @@
+/home/andrej/studyspace/courseProject/pclTest/CMakeFiles/openniViewer.dir
